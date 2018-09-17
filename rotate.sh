@@ -79,7 +79,7 @@ SCRIPT_BANNER="
 
 SCRIPT_DESCRIPTION="
   DESCRIPTION
-    This is a helper script for fb-rotate, which searches for the Display ID
+    A helper script for fb-rotate, which searches for the Display ID 
     automatically, and rotates the secondary display. The reason I wrote this
     script is because I was getting annoyed that I had to search for monitor ID
     everytime I disconnected my laptop. 
